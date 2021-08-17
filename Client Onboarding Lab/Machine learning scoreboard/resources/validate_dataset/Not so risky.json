@@ -1,0 +1,9 @@
+{
+  "industry": "Healthcare",
+  "clientInformation": {
+    "annualRevenue": 61399457,
+    "companyAge": 4,
+    "defaultedPayment": true,
+    "numberOfEmployees": 10
+  }
+}
